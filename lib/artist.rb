@@ -9,4 +9,4 @@ class Artist
 end
 
 drake = Artist.new("Drake")
-drake.name
+puts drake.name
